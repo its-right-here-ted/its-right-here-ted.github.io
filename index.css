@@ -1,1 +1,41 @@
+#title {
+    background-image: url("./pattern.png");
+    text-align: center;
+    width: 100%;
+    border: 3px solid khaki;
+    top: 0;
+    margin: 0;
+    padding: 50px;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+}
 
+#brush {
+    background-color: mediumspringgreen;
+}
+
+#frame {
+    background-color: lightcoral;
+}
+
+#paint {
+    background-color: skyblue;
+}
+
+
+.item h2{
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+.price {
+    font-weight: bold;
+    color: blue;
+
+}
+
+h1, h2, h3, p {
+    font-family: Helvetica;
+}
